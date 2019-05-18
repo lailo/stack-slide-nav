@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group" transform="translate(0.862530, 1.756655)" stroke="currentColor" stroke-width="2">
+            <g id="maximize" transform="translate(0.528551, -0.000000)">
+                <path d="M3.47826087,0 L1.39130435,0 C0.622908174,0 0,0.513575137 0,1.14710217 L0,2.86775544 M12.5217391,2.86775544 L12.5217391,1.14710217 C12.5217391,0.513575137 11.898831,0 11.1304348,0 L9.04347826,0 M0,7.45616414 L0,9.1768174 C0,9.81034444 0.622908174,10.3239196 1.39130435,10.3239196 L3.47826087,10.3239196" id="Shape"></path>
+            </g>
+            <g id="users" transform="translate(6.006812, 5.611297)">
+                <path d="M12.5217391,12.3887035 L12.5217391,11.0121809 C12.5217391,9.49171599 11.1201957,8.25913566 9.39130435,8.25913566 L3.13043478,8.25913566 C1.40154339,8.25913566 1.73774039e-16,9.49171599 0,11.0121809 L0,12.3887035" id="Path"></path>
+                <ellipse id="Oval" cx="6.26086957" cy="2.75304522" rx="3.13043478" ry="2.75304522"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
