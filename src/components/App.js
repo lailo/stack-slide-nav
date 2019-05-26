@@ -10,7 +10,7 @@ const App = () => (
       <Stack />
       <p className="mt-5 text-center text-black-50">
         <small>
-          Here presente data is from{' '}
+          All data is from{' '}
           <a
             target="_blank"
             rel="noopener noreferrer"
