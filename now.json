@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "stack-slide-nav",
+  "alias": ["stack-slide-nav"],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": {
+        "distDir": "build"
+      }
+    }
+  ]
+}
